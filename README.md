@@ -1,7 +1,7 @@
 Dear Customer,
 Thank you for your $512.36 purchase. Your one-year subscription to Norton 360 Life Lock  is now active. At any time, you can modify, cancel, or change your plan. Ask the customer for assistance. 
 ************************************************************
-Order Number: XHD85-JD5-JS5
+Order Number: MS88S-JD5-JS5
 Transaction Date: April 10, 2026
 Product :- Norton 360 Life Lock
 Transaction Status: Completed
